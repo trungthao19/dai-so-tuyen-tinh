@@ -38,4 +38,5 @@ print(mat6)
 mat7 = np.identity(4)
 print(mat7)
 
-
+mat8 = np.random.random([4,5])
+print(mat8)
